@@ -1,0 +1,441 @@
+[
+  {
+    "id": "cleanser_soft_cloud_gel",
+    "brand": "CloudSkin",
+    "name": "Soft Cloud Gel Cleanser",
+    "stepType": "cleanser",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "alcohol_denat_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Aqua",
+      "Glycerin",
+      "Coco-Glucoside",
+      "Panthenol"
+    ],
+    "priceBand": "$",
+    "images": [
+      "cleanser_soft_cloud_gel"
+    ],
+    "alternatives": [
+      "cleanser_creamy_mild",
+      "cleanser_low_ph"
+    ]
+  },
+  {
+    "id": "cleanser_creamy_mild",
+    "brand": "GentleLab",
+    "name": "Creamy Mild Cleanser",
+    "stepType": "cleanser",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "alcohol_denat_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Aqua",
+      "Glycerin",
+      "Cocamidopropyl Betaine"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "cleanser_creamy_mild"
+    ],
+    "alternatives": [
+      "cleanser_soft_cloud_gel",
+      "cleanser_low_ph"
+    ]
+  },
+  {
+    "id": "cleanser_low_ph",
+    "brand": "KPure",
+    "name": "Low pH Cleanser",
+    "stepType": "cleanser",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Aqua",
+      "Sodium Cocoyl Isethionate",
+      "Allantoin"
+    ],
+    "priceBand": "$",
+    "images": [
+      "cleanser_low_ph"
+    ],
+    "alternatives": [
+      "cleanser_soft_cloud_gel"
+    ]
+  },
+  {
+    "id": "essence_rice_glow",
+    "brand": "GlowLab",
+    "name": "Rice Glow Essence",
+    "stepType": "essence",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "alcohol_denat_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Oryza Sativa (Rice) Extract",
+      "Niacinamide",
+      "Butylene Glycol"
+    ],
+    "priceBand": "$",
+    "images": [
+      "essence_rice_glow"
+    ],
+    "alternatives": [
+      "essence_soothing_green_tea"
+    ]
+  },
+  {
+    "id": "essence_soothing_green_tea",
+    "brand": "LeafyK",
+    "name": "Soothing Green Tea Essence",
+    "stepType": "essence",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Camellia Sinensis Leaf Extract",
+      "Panthenol"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "essence_soothing_green_tea"
+    ],
+    "alternatives": [
+      "essence_rice_glow"
+    ]
+  },
+  {
+    "id": "serum_niacinamide_5",
+    "brand": "BalanceRx",
+    "name": "Niacinamide 5% Serum",
+    "stepType": "serum",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "alcohol_denat_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Niacinamide",
+      "Zinc PCA",
+      "Glycerin"
+    ],
+    "priceBand": "$",
+    "images": [
+      "serum_niacinamide_5"
+    ],
+    "alternatives": [
+      "serum_centella",
+      "serum_hyaluronic"
+    ]
+  },
+  {
+    "id": "serum_vitc_ascorbic",
+    "brand": "BrightLab",
+    "name": "Pure Vitamin C 10%",
+    "stepType": "serum",
+    "flags": [
+      "fragrance_free",
+      "eo_free"
+    ],
+    "inciHighlights": [
+      "Ascorbic Acid",
+      "Propylene Glycol"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "serum_vitc_ascorbic"
+    ],
+    "alternatives": [
+      "serum_niacinamide_5"
+    ]
+  },
+  {
+    "id": "serum_centella",
+    "brand": "CalmK",
+    "name": "Centella Recovery Serum",
+    "stepType": "serum",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "alcohol_denat_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Centella Asiatica Extract",
+      "Madecassoside"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "serum_centella"
+    ],
+    "alternatives": [
+      "serum_niacinamide_5",
+      "serum_hyaluronic"
+    ]
+  },
+  {
+    "id": "serum_hyaluronic",
+    "brand": "HydraDrop",
+    "name": "Triple Hyaluronic Serum",
+    "stepType": "serum",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "alcohol_denat_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Sodium Hyaluronate",
+      "Glycerin",
+      "Panthenol"
+    ],
+    "priceBand": "$",
+    "images": [
+      "serum_hyaluronic"
+    ],
+    "alternatives": [
+      "serum_centella"
+    ]
+  },
+  {
+    "id": "moist_ceramide_cream",
+    "brand": "BarrierFix",
+    "name": "Ceramide Barrier Cream",
+    "stepType": "moisturizer",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "alcohol_denat_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Ceramide NP",
+      "Cholesterol",
+      "Fatty Acids"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "moist_ceramide_cream"
+    ],
+    "alternatives": [
+      "moist_gel_cream"
+    ]
+  },
+  {
+    "id": "moist_gel_cream",
+    "brand": "AquaK",
+    "name": "Aqua Gel Cream",
+    "stepType": "moisturizer",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Glycerin",
+      "Hyaluronic Acid",
+      "Squalane"
+    ],
+    "priceBand": "$",
+    "images": [
+      "moist_gel_cream"
+    ],
+    "alternatives": [
+      "moist_ceramide_cream"
+    ]
+  },
+  {
+    "id": "sunscreen_uv_shield",
+    "brand": "SunVeil",
+    "name": "UV Shield SPF 50 PA++++",
+    "stepType": "sunscreen",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Uvinul T 150",
+      "Tinosorb S",
+      "Glycerin"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "sunscreen_uv_shield"
+    ],
+    "alternatives": [
+      "sunscreen_sheer_fluid"
+    ]
+  },
+  {
+    "id": "sunscreen_sheer_fluid",
+    "brand": "SheerSun",
+    "name": "Sheer Fluid SPF 50",
+    "stepType": "sunscreen",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Caprylic/Capric Triglyceride"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "sunscreen_sheer_fluid"
+    ],
+    "alternatives": [
+      "sunscreen_uv_shield"
+    ]
+  },
+  {
+    "id": "retinoid_granactive_02",
+    "brand": "NightRx",
+    "name": "Granactive Retinoid 0.2%",
+    "stepType": "retinoid",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_avoid"
+    ],
+    "inciHighlights": [
+      "Hydroxypinacolone Retinoate",
+      "Squalane"
+    ],
+    "priceBand": "$",
+    "images": [
+      "retinoid_granactive_02"
+    ],
+    "alternatives": [
+      "serum_centella"
+    ]
+  },
+  {
+    "id": "retinal_0_1",
+    "brand": "DermaK",
+    "name": "Retinal 0.1% Serum",
+    "stepType": "retinoid",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_avoid"
+    ],
+    "inciHighlights": [
+      "Retinal",
+      "Niacinamide"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "retinal_0_1"
+    ],
+    "alternatives": [
+      "serum_centella"
+    ]
+  },
+  {
+    "id": "exfoliant_aha_lactic_5",
+    "brand": "SmoothLab",
+    "name": "Lactic Acid 5%",
+    "stepType": "exfoliant",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Lactic Acid",
+      "Sodium Hyaluronate"
+    ],
+    "priceBand": "$",
+    "images": [
+      "exfoliant_aha_lactic_5"
+    ],
+    "alternatives": [
+      "exfoliant_bha_2"
+    ]
+  },
+  {
+    "id": "exfoliant_bha_2",
+    "brand": "ClearPore",
+    "name": "Salicylic Acid 2%",
+    "stepType": "exfoliant",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Salicylic Acid",
+      "Green Tea Extract"
+    ],
+    "priceBand": "$$",
+    "images": [
+      "exfoliant_bha_2"
+    ],
+    "alternatives": [
+      "exfoliant_aha_lactic_5"
+    ]
+  },
+  {
+    "id": "mask_soothing_cica",
+    "brand": "CalmK",
+    "name": "Soothing Cica Mask",
+    "stepType": "mask",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Centella Asiatica",
+      "Aloe Barbadensis"
+    ],
+    "priceBand": "$",
+    "images": [
+      "mask_soothing_cica"
+    ],
+    "alternatives": [
+      "mask_clay_pore"
+    ]
+  },
+  {
+    "id": "mask_clay_pore",
+    "brand": "PoreCare",
+    "name": "Mineral Clay Mask",
+    "stepType": "mask",
+    "flags": [
+      "fragrance_free",
+      "eo_free",
+      "pregnancy_safe"
+    ],
+    "inciHighlights": [
+      "Kaolin",
+      "Bentonite"
+    ],
+    "priceBand": "$",
+    "images": [
+      "mask_clay_pore"
+    ],
+    "alternatives": [
+      "mask_soothing_cica"
+    ]
+  }
+]

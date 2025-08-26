@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "base_type": "combination",
+  "modifiers": {
+    "sensitive": true,
+    "acne_prone": false,
+    "pigmentation_prone": true
+  },
+  "observations": {
+    "oiliness_tzone": 0.62,
+    "erythema": 0.18,
+    "pore_visibility": 0.55,
+    "active_lesions": 1,
+    "post_inflammatory_hyperpigmentation": 0.4,
+    "texture_roughness": 0.3,
+    "confidence": 0.84,
+    "captured_at": "2025-08-24T10:30:00Z"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "am_steps": [
+    "cleanser",
+    "essence",
+    "serum",
+    "moisturizer",
+    "sunscreen"
+  ],
+  "pm_steps": [
+    "cleanser",
+    "essence",
+    "serum_or_retinoid",
+    "moisturizer"
+  ],
+  "weekly_plan": {
+    "retinoidNights": [
+      "Mon",
+      "Thu"
+    ],
+    "exfoliantDays": [
+      "Wed"
+    ],
+    "maskDays": [
+      "Fri"
+    ]
+  },
+  "notes": "Avoid stacking strong AHA/BHA with retinoid on same night. Use vitamin C AM on non-exfoliation days."
+}
